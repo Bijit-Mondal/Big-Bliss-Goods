@@ -1,0 +1,12 @@
+{
+    ":name": "Big Bliss Goods",
+    "title": {":type": "text"},
+  
+    "products": {
+      ":items": {
+        "title": {":type": "text"},
+        "img": {":type": "text"},
+        "desc": {":type": "text", ":richtext": true}
+      }
+    }
+  }

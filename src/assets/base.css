@@ -1,0 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.vs-navbar-flat .vs-navbar--header .vs-navbar--btn-responsive{
+  transform:translatex(21px) translatey(15px);
+ }
