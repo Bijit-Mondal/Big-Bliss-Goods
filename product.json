@@ -2,8 +2,13 @@
   "title": "Big Bliss Goods",
   "products": [
     {
+      "title": "Broom Stick",
+      "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%201.jpeg?raw=true"
+    },
+    {
       "title": "Silicon Neck Pillow",
-      "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2094.jpeg?raw=true"
+      "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2094.jpeg?raw=true",
+      "desc": "<p>₹380</p>"
     }
   ]
 }
