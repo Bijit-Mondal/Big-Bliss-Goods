@@ -3,6 +3,10 @@
   "products": [
     {},
     {
+      "title": "Bag",
+      "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2041.jpeg?raw=true"
+    },
+    {
       "title": "Table mat 30*45 mix per pcs",
       "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2050.jpeg?raw=true"
     },
@@ -23,12 +27,12 @@
       "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2045.jpeg?raw=true"
     },
     {
-      "title": "Wall plant climbing clip ( 30 pcs\nset)",
-      "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2044.jpeg?raw=true"
+      "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2044.jpeg?raw=true",
+      "title": "Wall plant climbing clip ( 30 pcs\nset)"
     },
     {
-      "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2043.jpeg?raw=true",
-      "title": "Puri, Momos and Gujia maker"
+      "title": "Puri, Momos and Gujia maker",
+      "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2043.jpeg?raw=true"
     },
     {
       "title": "Utility Lighter",
@@ -38,7 +42,6 @@
       "title": "Super absorbent dishwashing cloth",
       "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2040.jpeg?raw=true"
     },
-    {},
     {
       "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2039.jpeg?raw=true",
       "title": "Cloth clip per dozen"
