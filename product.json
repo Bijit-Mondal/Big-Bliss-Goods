@@ -1,7 +1,10 @@
 {
   "title": "Big Bliss Goods",
   "products": [
-    {},
+    {
+      "title": "M14 MOLI RUDRAAKSH PER\nDOZEN",
+      "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2057.jpeg?raw=true"
+    },
     {
       "title": "Bag",
       "img": "https://github.com/bitanM/big_bliss_goods/blob/main/product%2041.jpeg?raw=true"
